@@ -49,7 +49,6 @@ user_json  = "user_products_1000.json"
   [
     {"user": "u1", "items": [{"prefix":"P","asin":"A1"}, {"prefix":"P","asin":"A2"}]},
     {"user": "u2", "items": [{"asin":"B3"}]}
-    ...
   ]
   ```
 
